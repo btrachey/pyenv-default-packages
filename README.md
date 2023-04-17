@@ -12,7 +12,7 @@ Forked from the excellent [`rbenv-default-gems`][1] plugin from [sstephenson][2]
 
 Make sure you have the latest pyenv version, then run:
 
-    git clone https://github.com/jawshooah/pyenv-default-packages.git $(pyenv root)/plugins/pyenv-default-packages
+    git clone https://github.com/btrachey/pyenv-default-packages.git $(pyenv root)/plugins/pyenv-default-packages
 
 ### Installing with Homebrew (for OS X users)
 
@@ -23,13 +23,13 @@ Mac OS X users can install pyenv-default-packages with the
  with Homebrew.*
 
 ```
-$ brew install jawshooah/pyenv/pyenv-default-packages
+$ brew install btrachey/pyenv/pyenv-default-packages
 ```
 
 Or, if you would like to install the latest development release:
 
 ```
-$ brew install --HEAD jawshooah/pyenv/pyenv-default-packages
+$ brew install --HEAD btrachey/pyenv/pyenv-default-packages
 ```
 
 ## Usage
